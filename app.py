@@ -66,8 +66,8 @@ BillAmt = st.number_input('Bill Amount')
 
 
 #Dataframe
-datos = [['AccountName', 'ProviderClient', 'Subject','PurchAmt','BillAmt']]
-data = pd.DataFrame(datos, columns=['AccountName', 'ProviderClient', 'Subject','PurchAmt','BillAmt']) #Dataframe con los mismos nombres de variables
+datos = [[AccountName, ProviderClient, Subject,PurchAmt,BillAmt]]
+data = pd.DataFrame(datos, columns=['Account Name', 'Provider Client', 'Subject','Purch Amt','Bill Amt']) #Dataframe con los mismos nombres de variables
 
 #Se realiza la preparación
 data_preparada=data.copy()
