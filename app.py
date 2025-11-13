@@ -18,11 +18,14 @@ Original file is located at
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import streamlit as st
 
 #Cargamos el modelo
 import pickle
 filename = 'modelo-ensamble-clas.pkl'
 model_rf, min_max_scaler,labelencoder, variables = pickle.load(open(filename, 'rb'))
+
+variables = list(variables)
 
 #Cargamos los datos futuros
 # data = pd.read_csv("videojuegos-datosFuturos.csv")
@@ -31,7 +34,6 @@ model_rf, min_max_scaler,labelencoder, variables = pickle.load(open(filename, 'r
 #Aquí va la interfaz gráfica
 #Se crea interfaz gráfica con streamlit para captura de los datos
 
-import streamlit as st
 
 st.title('Predicción de rentabilidad o pérdida de financiación de Bills médicos')
 
