@@ -1,0 +1,1136 @@
+,Account Name,Provider Client,Subject,Bill Amt,Purch Amt,ROI_Categoria
+0,Ace Law Group,Pueblo Medical Imaging,Lien,1650.0,462.0,Rentable
+2,Ace Law Group,LVR,Imaging,1650.0,495.0,Rentable
+5,Ace Law Group,LVR,Imaging,1650.0,495.0,Rentable
+7,Ace Law Group,LVR,Imaging,1650.0,495.0,Pérdida
+8,Ace Law Group,LVR,Imaging,1650.0,495.0,Rentable
+9,Ace Law Group,LVR,Imaging,1650.0,495.0,Rentable
+12,Ace Law Group,LVR,Imaging,1650.0,495.0,Rentable
+14,Ace Law Group,Pueblo Medical Imaging,Imaging,1783.0,504.0,Rentable
+15,Ace Law Group,Pueblo Medical Imaging,Imaging,1950.0,546.0,Rentable
+16,Ace Law Group,Pueblo Medical Imaging,Imaging,1467.0,504.0,Rentable
+17,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+18,Ace Law Group,Pueblo Medical Imaging,Imaging,1000.0,280.0,Rentable
+19,Ace Law Group,Pueblo Medical Imaging,Imaging,1800.0,462.0,Rentable
+21,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+23,Ace Law Group,LVR,Imaging,1650.0,495.0,Pérdida
+27,Ace Law Group,LVR,Imaging,1650.0,495.0,Pérdida
+29,Ace Law Group,LVR,Imaging,1650.0,495.0,Pérdida
+38,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,495.0,Rentable
+39,Ace Law Group,Durango Surgery Center,Pain Management,24149.0,6844.7,Pérdida
+41,Ace Law Group,LVR,Imaging,1650.0,495.0,Rentable
+44,Ace Law Group,LVR,Imaging,150.0,45.0,Pérdida
+47,Ace Law Group,LVR,Imaging,150.0,45.0,Rentable
+53,Ace Law Group,LVR,Imaging,150.0,45.0,Rentable
+56,Ace Law Group,LVR,Imaging,1100.0,330.0,Rentable
+57,Ace Law Group,Parkway Surgery Center,Pain Management,12921.0,4263.93,Pérdida
+61,Ace Law Group,LVR,Imaging,750.0,225.0,Rentable
+62,Ace Law Group,LVR,Imaging,1100.0,330.0,Rentable
+66,Ace Law Group,LVR,Imaging,150.0,45.0,Rentable
+70,Ace Law Group,LVR,Imaging,1650.0,495.0,Rentable
+76,Ace Law Group,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+78,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+81,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+82,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,420.0,Pérdida
+83,Ace Law Group,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+84,Ace Law Group,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+89,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+90,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+91,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+92,Ace Law Group,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+98,Ace Law Group,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+102,Ace Law Group,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+108,Ace Law Group,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+109,Ace Law Group,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+111,Ace Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+115,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+116,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+119,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+120,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+123,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+125,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+126,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,560.0,Pérdida
+127,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+128,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+129,Ace Law Group,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+130,Ace Law Group,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+131,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+132,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+133,Ace Law Group,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+134,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+136,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Pérdida
+137,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+140,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+141,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+144,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+145,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+146,Ace Law Group,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+147,Ace Law Group,Pueblo Medical Imaging,Imaging,2120.0,594.0,Rentable
+148,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+149,Ace Law Group,Pueblo Medical Imaging,Imaging,2150.0,420.0,Rentable
+150,Ace Law Group,Suarez Physical Therapy,Physical Therapy,4885.0,1465.5,Rentable
+151,Ace Law Group,Suarez Physical Therapy,Physical Therapy,15688.0,4706.4,Rentable
+155,Ace Law Group,Pueblo Medical Imaging,Imaging,2120.0,594.0,Rentable
+156,Ace Law Group,Pueblo Medical Imaging,Imaging,2150.0,420.0,Rentable
+157,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+158,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+160,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+162,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+165,Ace Law Group,Pueblo Medical Imaging,Imaging,1500.0,420.0,Rentable
+166,Ace Law Group,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+167,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+172,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+173,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+175,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+187,Ace Law Group,Suarez Physical Therapy,Physical Therapy,11916.0,3574.8,Rentable
+188,Ace Law Group,Suarez Physical Therapy,Physical Therapy,5460.0,1638.0,Rentable
+189,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+190,Ace Law Group,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+191,Ace Law Group,Pueblo Medical Imaging,Imaging,1000.0,308.0,Rentable
+197,Ace Law Group,Jackson Physical Therapy,Physical Therapy,4159.0,1455.65,Rentable
+198,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+199,Ace Law Group,Jackson Physical Therapy,Physical Therapy,2626.0,866.58,Rentable
+200,Angulo Law Group,Simpson Chiropractic,Chiropractic,2955.0,738.75,Rentable
+201,Angulo Law Group,Simpson Chiropractic,Chiropractic,1495.0,373.75,Rentable
+202,Angulo Law Group,Simpson Chiropractic,Chiropractic,4660.0,1165.0,Rentable
+203,Angulo Law Group,Simpson Chiropractic,Chiropractic,3515.0,878.75,Rentable
+204,Angulo Law Group,Simpson Chiropractic,Chiropractic,3000.0,750.0,Rentable
+205,Angulo Law Group,Simpson Chiropractic,Chiropractic,3185.0,796.25,Rentable
+206,Angulo Law Group,Simpson Chiropractic,Chiropractic,6255.0,1563.75,Rentable
+207,Angulo Law Group,Simpson Chiropractic,Chiropractic,4545.0,1136.25,Rentable
+208,Angulo Law Group,Simpson Chiropractic,Chiropractic,1940.0,485.0,Rentable
+209,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,500.0,140.0,Rentable
+210,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+213,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+214,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,1950.0,546.0,Rentable
+215,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,1595.0,447.0,Rentable
+217,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,312.0,88.0,Rentable
+218,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+219,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,1200.0,250.0,Rentable
+220,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+221,Atkinson Watkins & Hoffman Attorneys,Pueblo Medical Imaging,Imaging,1200.0,250.0,Rentable
+222,BD & J Law Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+223,BD & J Law Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Pérdida
+224,BD & J Law Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+225,BD & J Law Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+229,BD & J Law Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+231,BD & J Law Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+233,Benjamin Nadig Law,Simpson Chiropractic,Chiropractic,2680.0,723.6,Rentable
+234,Benjamin Nadig Law,Simpson Chiropractic,Chiropractic,4110.0,1109.7,Rentable
+235,Benjamin Nadig Law,Simpson Chiropractic,Chiropractic,2075.0,664.0,Rentable
+236,Benjamin Nadig Law,Simpson Chiropractic,Chiropractic,4620.0,1478.0,Rentable
+237,Benjamin Nadig Law,Simpson Chiropractic,Chiropractic,9185.0,2479.95,Rentable
+238,Benjamin Nadig Law,Simpson Chiropractic,Chiropractic,5195.0,1402.65,Rentable
+239,Benjamin Nadig Law,Simpson Chiropractic,Chiropractic,3510.0,1123.2,Rentable
+240,Benson Allred Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+241,Benson Allred Injury Law,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+242,Benson Allred Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+252,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+257,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+258,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+260,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,585.0,164.0,Rentable
+262,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+265,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+268,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+269,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+271,Blackburn Wirth Injury Team,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+279,Blackburn Wirth Injury Team,Simpson Chiropractic,Chiropractic,4480.0,1344.0,Rentable
+280,Cardenas Law Group,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+283,Cardenas Law Group,Pueblo Medical Imaging,Imaging,150.0,45.0,Rentable
+284,Cardenas Law Group,Pueblo Medical Imaging,Lien,1650.0,462.0,Rentable
+286,Cardenas Law Group,Simpson Chiropractic,Chiropractic,4480.0,1433.6,Rentable
+287,Cardenas Law Group,Pueblo Medical Imaging,Chiropractic,4705.0,1505.6,Rentable
+288,Ace Law Group,Simpson Chiropractic,Chiropractic,3925.0,1256.0,Rentable
+289,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+290,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+299,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+306,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+309,Ace Law Group,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+310,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+319,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+320,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+324,Ace Law Group,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+325,Ace Law Group,Pueblo Medical Imaging,Imaging,600.0,168.0,Rentable
+326,Ace Law Group,Pueblo Medical Imaging,Imaging,500.0,140.0,Rentable
+329,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+338,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+341,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+343,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+357,Ace Law Group,Pueblo Medical Imaging,Imaging,5385.0,1509.0,Rentable
+358,Ace Law Group,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+367,Ace Law Group,Pueblo Medical Imaging,Imaging,1000.0,308.0,Rentable
+368,Ace Law Group,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+371,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+380,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+393,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+395,Ace Law Group,Suarez Physical Therapy,Physical Therapy,18739.4,5621.82,Rentable
+399,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+417,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+419,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+429,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+433,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+434,Ace Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+449,Ace Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+453,David W Fassett Personal Injury Law,LVR,Administrative,1650.0,495.0,Rentable
+454,David W Fassett Personal Injury Law,LVR,Administrative,1650.0,495.0,Rentable
+455,David W Fassett Personal Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+458,David W Fassett Personal Injury Law,LVR,Imaging,1650.0,495.0,Rentable
+460,Dimopoulos Injury Law,Pueblo Medical Imaging,Physical Therapy,545.0,163.5,Pérdida
+461,Dimopoulos Injury Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+463,Dimopoulos Injury Law,OpenSided MRI of Las Vegas,Imaging,1645.0,500.0,Rentable
+464,Dimopoulos Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+465,Dimopoulos Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+466,Dimopoulos Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+468,Dimopoulos Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+472,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+476,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Pérdida
+478,ER Injury Attorneys,Simpson Chiropractic,Chiropractic,4960.0,1587.2,Rentable
+479,ER Injury Attorneys,Simpson Chiropractic,Chiropractic,10480.0,3353.6,Rentable
+480,ER Injury Attorneys,Simpson Chiropractic,Chiropractic,5215.0,1668.8,Rentable
+481,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+482,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+483,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+485,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+486,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+489,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+491,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+493,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+496,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+498,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+501,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+502,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+504,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+507,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+510,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+512,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+514,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+518,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+519,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+521,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+524,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+525,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+526,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+528,ER Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+529,ER Injury Attorneys,Simpson Chiropractic,Chiropractic,10540.0,2635.0,Pérdida
+532,Fuller Law Practice,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+536,Fuller Law Practice,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+540,G Dallas Horton & Associates,Pueblo Medical Imaging,Lien,1650.0,462.0,Rentable
+541,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+542,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+544,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+545,G Dallas Horton & Associates,Pueblo Medical Imaging,Lien,1950.0,504.0,Rentable
+546,G Dallas Horton & Associates,Pueblo Medical Imaging,Lien,1783.0,546.0,Rentable
+547,G Dallas Horton & Associates,Pueblo Medical Imaging,Lien,150.0,42.0,Rentable
+550,G Dallas Horton & Associates,Pueblo Medical Imaging,Lien,150.0,45.0,Rentable
+551,G Dallas Horton & Associates,Pueblo Medical Imaging,Lien,1950.0,546.0,Rentable
+552,G Dallas Horton & Associates,Pueblo Medical Imaging,Lien,1783.0,504.0,Rentable
+553,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+554,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+555,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+559,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+563,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+570,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Pérdida
+571,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+574,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,450.0,126.0,Rentable
+576,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1950.0,546.0,Rentable
+577,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+578,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+580,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+586,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+587,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+588,G Dallas Horton & Associates,Durango Surgery Center,Pain Management,14021.0,4626.93,Rentable
+589,G Dallas Horton & Associates,Surgical Arts Centre,Pain Management,5072.0,1673.76,Rentable
+590,G Dallas Horton & Associates,Surgical Arts Centre,Pain Management,5819.32,2036.76,Rentable
+591,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+592,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+593,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+594,G Dallas Horton & Associates,Surgical Arts Centre,Pain Management,5072.0,1673.76,Rentable
+603,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+604,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+609,G Dallas Horton & Associates,Simpson Chiropractic,Chiropractic,4520.0,1356.0,Rentable
+610,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+626,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+630,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+633,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+636,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+642,G Dallas Horton & Associates,Simpson Chiropractic,Chiropractic,3555.0,1137.0,Rentable
+643,G Dallas Horton & Associates,Simpson Chiropractic,Chiropractic,3555.0,1137.6,Rentable
+644,G Dallas Horton & Associates,Simpson Chiropractic,Chiropractic,7500.0,2250.0,Rentable
+645,G Dallas Horton & Associates,Simpson Chiropractic,Chiropractic,4925.0,1288.5,Rentable
+646,G Dallas Horton & Associates,Simpson Chiropractic,Chiropractic,5590.0,1677.0,Rentable
+652,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+659,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+667,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+669,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+670,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+671,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+675,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+677,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+680,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+681,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,535.0,160.5,Rentable
+682,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,825.0,247.5,Rentable
+683,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,30630.0,9189.0,Rentable
+684,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,1216.0,364.8,Rentable
+685,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,12455.0,3736.5,Rentable
+686,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,485.0,145.5,Rentable
+687,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+691,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+693,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+694,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+698,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+701,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+702,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+703,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1975.0,503.0,Rentable
+704,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+705,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+707,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+710,G Dallas Horton & Associates,Durango Surgery Center,Pain Management,5601.2,1848.4,Rentable
+711,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+713,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+715,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+720,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+723,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+725,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+726,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+727,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+731,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+734,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+740,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+744,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+745,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+749,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+751,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+753,G Dallas Horton & Associates,Pueblo Medical Imaging,Imaging,2120.0,594.0,Rentable
+756,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,4766.5,1417.95,Rentable
+757,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,1755.0,526.0,Rentable
+758,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,1487.0,446.6,Rentable
+759,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,7373.0,2211.9,Rentable
+760,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,400.0,120.0,Rentable
+761,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,5448.0,1634.4,Rentable
+762,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,11736.0,3520.8,Rentable
+763,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,9644.0,2893.2,Rentable
+764,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,12418.75,3725.63,Rentable
+765,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,10646.0,3193.8,Rentable
+766,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,2662.0,798.6,Rentable
+767,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,18821.0,5646.3,Rentable
+768,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,14633.0,4389.9,Rentable
+769,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,6534.0,1960.2,Rentable
+770,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,11965.4,3589.62,Rentable
+771,G Dallas Horton & Associates,Suarez Physical Therapy,Physical Therapy,4971.0,1491.3,Rentable
+772,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,550.0,280.0,Rentable
+773,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+774,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+775,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+777,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,450.0,126.0,Rentable
+778,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1800.0,462.0,Rentable
+779,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,550.0,280.0,Rentable
+780,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,9700.0,3104.0,Rentable
+781,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,10050.0,3216.0,Rentable
+782,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,3740.0,1009.8,Rentable
+783,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+786,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+787,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+789,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+790,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+791,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+792,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+794,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+798,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+799,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+801,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+802,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+803,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+804,Goldberg Injury Law,Durango Surgery Center,Pain Management,9800.0,2946.57,Rentable
+805,Goldberg Injury Law,Durango Surgery Center,Pain Management,6487.0,2140.71,Rentable
+806,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+809,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+812,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+813,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+815,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+821,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,9805.0,3137.0,Rentable
+823,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,4735.0,1515.2,Rentable
+824,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+830,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+831,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+835,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,8140.0,2604.0,Rentable
+836,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,7295.0,1969.65,Rentable
+837,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,7295.0,1969.65,Rentable
+838,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+839,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+846,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,4520.0,1220.4,Rentable
+847,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,4335.0,1170.45,Rentable
+848,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+849,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+850,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,392.0,Pérdida
+851,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+852,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+854,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1800.0,462.0,Rentable
+855,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1000.0,280.0,Rentable
+856,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+861,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+863,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+867,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+868,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+869,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+870,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+871,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Pérdida
+873,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+880,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+884,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+898,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+900,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+902,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+905,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+906,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+907,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+912,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+914,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+916,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1800.0,504.0,Rentable
+917,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1000.0,280.0,Rentable
+926,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+928,Goldberg Injury Law,Durango Surgery Center,Pain Management,11579.0,3821.07,Rentable
+929,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,5000.0,1400.0,Rentable
+930,Goldberg Injury Law,Simpson Chiropractic,Chiropractic,5115.0,1636.8,Rentable
+931,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+936,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+938,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+940,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+941,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+942,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+944,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+947,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+951,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+952,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+953,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+954,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+957,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+963,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+969,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Pérdida
+975,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+978,Goldberg Injury Law,LVC Surgery Center,Pain Management,3030.0,999.9,Rentable
+979,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+980,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,560.0,Pérdida
+981,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2000.0,560.0,Pérdida
+982,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,400.0,112.0,Pérdida
+984,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Pérdida
+987,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+989,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+994,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Pérdida
+995,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,550.0,308.0,Pérdida
+996,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+997,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1005,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1007,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+1008,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1000.0,308.0,Rentable
+1009,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1012,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+1014,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1017,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1020,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+1027,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Pérdida
+1028,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1031,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1033,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1039,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1041,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1043,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1050,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1055,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1057,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1064,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1068,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1075,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1083,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1084,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1088,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1089,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1097,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+1098,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1099,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1101,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1106,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1109,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1116,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1123,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+1124,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+1126,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1128,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1137,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1139,Goldberg Injury Law,Surgical Arts Centre,Pain Management,10891.32,3594.14,Rentable
+1142,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1146,Goldberg Injury Law,Surgical Arts Centre,Surgery,6072.0,2003.76,Rentable
+1147,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1148,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+1149,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+1150,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1152,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1154,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1155,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1156,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+1157,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+1159,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1000.0,308.0,Rentable
+1160,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1164,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1169,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1170,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1178,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1183,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1500.0,420.0,Rentable
+1184,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+1193,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1196,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1200,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1209,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1214,Goldberg Injury Law,OpenSided MRI of Las Vegas,Imaging,1795.0,475.0,Rentable
+1216,Goldberg Injury Law,OpenSided MRI of Las Vegas,Imaging,150.0,45.0,Rentable
+1218,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1221,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2120.0,594.0,Rentable
+1224,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1225,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1230,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1240,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+1241,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+1242,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1244,Goldberg Injury Law,LVC Surgery Center,Surgery,3030.0,999.9,Rentable
+1247,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1250,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1253,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1257,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1273,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1274,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+1276,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+1277,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1281,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1282,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1286,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1301,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1302,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1306,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+1307,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+1319,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1335,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+1337,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+1347,Goldberg Injury Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1353,Goldberg Injury Law,LVC Surgery Center,Surgery,12180.0,4019.4,Rentable
+1354,Jacoby & Meyers CA,Precision Medical Products,Medical Device,4250.0,1062.5,Pérdida
+1355,Jacoby & Meyers CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+1356,Jacoby & Meyers CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+1357,Jacoby & Meyers CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+1358,Jacoby & Meyers CA,Precision Medical Products,Medical Device,995.0,248.75,Pérdida
+1359,Jacoby & Meyers CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+1360,Jacoby & Meyers CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+1361,Jacoby & Meyers CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+1362,ER Injury Attorneys,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+1363,Ladah Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+1365,Ladah Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Pérdida
+1367,Ladah Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Pérdida
+1372,Ladah Law,Pueblo Medical Imaging,Imaging,1200.0,250.0,Pérdida
+1373,Ladah Law,Simpson Chiropractic,Chiropractic,5075.0,1015.0,Rentable
+1374,Ladah Law,Suarez Physical Therapy,Physical Therapy,9599.0,2879.0,Rentable
+1375,Ladah Law,Suarez Physical Therapy,Physical Therapy,15991.0,4797.3,Rentable
+1376,Lalezary Law Firm CA Law Brothers,Precision Medical Products,Medical Device,4349.45,1087.36,Rentable
+1377,Lalezary Law Firm CA Law Brothers,Precision Medical Products,Medical Device,2573.25,643.31,Rentable
+1378,Lalezary Law Firm CA Law Brothers,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+1379,Lalezary Law Firm CA Law Brothers,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+1380,Lalezary Law Firm CA Law Brothers,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+1381,Law Office of Arash Khorsandi,Precision Medical Products,Medical Device,4250.0,1062.5,Pérdida
+1382,Law Office of Arash Khorsandi,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+1383,Law Office of Arash Khorsandi,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+1384,Law Office of Arash Khorsandi,Precision Medical Products,Medical Device,164.49,41.12,Rentable
+1385,Law Office of Arash Khorsandi,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+1386,Law Office of Arash Khorsandi,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+1387,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1388,Law Office of Stephen Reid,LVR,Imaging,150.0,45.0,Rentable
+1389,Law Office of Stephen Reid,LVR,Imaging,250.0,75.0,Rentable
+1391,Law Office of Stephen Reid,LVR,Imaging,1650.0,495.0,Rentable
+1392,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1393,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1950.0,546.0,Rentable
+1394,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1783.0,504.0,Rentable
+1395,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1467.0,504.0,Rentable
+1396,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1402,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1403,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1412,Law Office of Stephen Reid,Pueblo Medical Imaging,Lien,150.0,42.0,Rentable
+1414,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1422,Law Office of Stephen Reid,LVR,Imaging,1650.0,495.0,Rentable
+1437,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1441,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1448,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1460,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1850.0,462.0,Rentable
+1461,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1850.0,462.0,Rentable
+1472,Law Office of Stephen Reid,LVR,Imaging,150.0,45.0,Rentable
+1477,Law Office of Stephen Reid,LVR,Imaging,250.0,75.0,Rentable
+1479,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1491,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+1494,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1510,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1524,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+1534,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1557,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1575,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1588,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1598,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1600,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+1601,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1602,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1607,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1608,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+1620,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1200.0,250.0,Rentable
+1621,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1626,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+1635,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+1636,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+1640,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+1644,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1653,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1655,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1661,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1662,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1683,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1696,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1717,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1718,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1728,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1729,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1754,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1758,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1788,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1790,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1792,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1821,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1823,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1828,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1829,Law Office of Stephen Reid,LVR,Imaging,1650.0,495.0,Rentable
+1839,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1846,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1849,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,495.0,Rentable
+1854,Law Office of Stephen Reid,LVR,Imaging,150.0,45.0,Rentable
+1856,Law Office of Stephen Reid,LVR,Imaging,250.0,75.0,Rentable
+1857,Law Office of Stephen Reid,LVR,Imaging,150.0,45.0,Pérdida
+1868,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1871,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+1878,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,250.0,70.0,Rentable
+1887,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,495.0,Rentable
+1905,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+1906,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1907,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1909,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1913,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1915,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+1918,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1920,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1921,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1923,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1926,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1927,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1928,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+1929,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+1930,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+1932,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1935,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1936,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1949,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1951,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1955,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1962,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1968,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1969,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1972,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+1976,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+1979,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+1981,Law Office of Stephen Reid,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+1984,Law Office of Victor M Cardoza,LVR,Imaging,1650.0,495.0,Rentable
+1986,Law Office of Victor M Cardoza,LVR,Lien,1650.0,495.0,Rentable
+1988,Law Office of Victor M Cardoza,LVR,Administrative,150.0,45.0,Rentable
+1989,Law Office of Victor M Cardoza,LVR,Imaging,1650.0,495.0,Rentable
+1991,Law Office of Victor M Cardoza,LVR,Imaging,1650.0,495.0,Rentable
+1994,Law Office of Victor M Cardoza,Pueblo Medical Imaging,Lien,150.0,42.0,Rentable
+1997,Law Office of Victor M Cardoza,LVR,Lien,1650.0,495.0,Rentable
+1999,Law Office of Victor M Cardoza,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2001,Law Office of Victor M Cardoza,LVR,Imaging,250.0,75.0,Rentable
+2002,Law Office of Victor M Cardoza,LVR,Imaging,150.0,45.0,Rentable
+2003,Law Office of Victor M Cardoza,LVR,Imaging,150.0,42.0,Rentable
+2004,Law Office of Victor M Cardoza,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2007,Law Office of Victor M Cardoza,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2011,Law Office of Victor M Cardoza,LVR,Imaging,1650.0,495.0,Rentable
+2022,Law Office of Victor M Cardoza,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2027,Law Office of Victor M Cardoza,LVR,Imaging,150.0,45.0,Rentable
+2030,Law Office of Victor M Cardoza,LVR,Imaging,1650.0,495.0,Rentable
+2031,Law Office of Victor M Cardoza,LVR,Imaging,1650.0,495.0,Rentable
+2034,Law Office of Victor M Cardoza,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+2035,Law Office of Victor M Cardoza,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2037,Law Office of Victor M Cardoza,LVR,Imaging,1850.0,555.0,Rentable
+2038,Law Office of Victor M Cardoza,LVR,Imaging,750.0,225.0,Rentable
+2040,Law Office of Victor M Cardoza,LVR,Imaging,1100.0,330.0,Rentable
+2041,Law Office of Victor M Cardoza,LVR,Imaging,250.0,75.0,Rentable
+2042,Law Office of Victor M Cardoza,LVR,Imaging,150.0,45.0,Rentable
+2051,Lawrence C Hill & Associates,LVR,Imaging,1650.0,495.0,Rentable
+2052,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2054,Lawrence C Hill & Associates,LVR,Lien,250.0,75.0,Rentable
+2055,Lawrence C Hill & Associates,LVR,Imaging,1650.0,495.0,Rentable
+2061,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2063,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+2067,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1750.0,420.0,Rentable
+2068,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1950.0,546.0,Rentable
+2069,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2073,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2076,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+2085,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2107,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+2109,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+2119,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2121,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2126,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2134,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2138,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2141,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2148,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2151,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2152,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2158,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2159,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2162,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2165,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+2166,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+2167,Lawrence C Hill & Associates,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2174,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2176,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2177,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2178,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+2181,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2183,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2184,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2185,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2186,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2192,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2194,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1000.0,280.0,Rentable
+2195,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1800.0,462.0,Rentable
+2196,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2208,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2210,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2225,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2227,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2230,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2234,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2240,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,50.0,Pérdida
+2241,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+2242,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2246,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+2254,Lloyd Baker Injury Attorneys,Parkway Surgery Center,Pain Management,54884.0,18111.72,Rentable
+2255,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+2261,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2262,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,392.0,Rentable
+2264,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+2265,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,420.0,Rentable
+2272,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2280,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2281,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2283,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2298,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2317,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2322,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2327,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2331,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2335,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2340,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2341,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1250.0,315.0,Rentable
+2352,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2354,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2359,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2361,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2369,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2374,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2386,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+2387,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2400,Lloyd Baker Injury Attorneys,Simpson Chiropractic,Chiropractic,3730.0,1193.6,Pérdida
+2404,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2412,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2421,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+2424,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2425,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2427,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2429,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2432,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2433,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2435,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2440,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2442,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2445,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2449,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2453,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2455,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2458,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2461,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2464,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+2472,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,2120.0,594.0,Rentable
+2473,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+2474,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,2150.0,420.0,Rentable
+2477,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Pérdida
+2478,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2480,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2481,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2483,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2484,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,2010.0,563.0,Pérdida
+2485,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1100.0,308.0,Pérdida
+2486,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2491,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2493,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1500.0,420.0,Rentable
+2494,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,300.0,84.0,Rentable
+2496,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2500,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2502,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2508,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2509,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2517,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2536,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2540,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2541,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2542,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2545,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2549,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2556,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2557,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2558,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2562,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2563,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2568,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2569,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2574,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2575,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2582,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2586,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2587,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2588,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2590,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2595,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2599,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2607,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Pérdida
+2615,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2617,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2625,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2626,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2638,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2643,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2645,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2649,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2658,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2661,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2664,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2667,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2668,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2679,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2681,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2685,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2689,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2696,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2708,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2709,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1950.0,594.0,Rentable
+2710,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2712,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2719,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2725,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2726,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2729,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2731,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2733,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2734,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2736,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2738,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+2739,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+2740,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2745,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2746,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2754,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2756,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2758,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2760,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2761,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2767,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+2768,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+2770,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2773,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2790,Lloyd Baker Injury Attorneys,LVC Surgery Center,Surgery,13192.0,4353.36,Rentable
+2792,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2797,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2802,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2807,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2811,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2812,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2813,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2814,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2830,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2831,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2834,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2839,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+2841,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+2842,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2843,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2844,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2847,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2850,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2862,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2871,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2872,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2874,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2877,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+2884,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2886,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2887,Lloyd Baker Injury Attorneys,OpenSided MRI of Las Vegas,Imaging,3590.0,950.0,Rentable
+2893,Lloyd Baker Injury Attorneys,OpenSided MRI of Las Vegas,Imaging,1795.0,475.0,Rentable
+2896,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2898,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2900,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2911,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2916,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2924,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2926,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2927,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2940,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2944,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2963,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2972,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2975,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2986,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+2988,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2997,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+2998,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3002,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+3007,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3018,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3020,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3028,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3035,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3036,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+3038,Lloyd Baker Injury Attorneys,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3040,Mullins & Trenchak Law,LVR,Imaging,150.0,45.0,Rentable
+3042,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3044,Mullins & Trenchak Law,Pueblo Medical Imaging,Lien,1650.0,462.0,Rentable
+3045,Mullins & Trenchak Law,Pueblo Medical Imaging,Lien,1650.0,462.0,Rentable
+3047,Mullins & Trenchak Law,Pueblo Medical Imaging,Lien,150.0,42.0,Rentable
+3050,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3053,Mullins & Trenchak Law,LVR,Imaging,1650.0,495.0,Rentable
+3054,Mullins & Trenchak Law,LVR,Imaging,1650.0,495.0,Rentable
+3055,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3057,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3058,Mullins & Trenchak Law,Pueblo Medical Imaging,Lien,1650.0,462.0,Rentable
+3059,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3066,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3080,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+3085,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3087,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+3088,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3094,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3100,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3101,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3106,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3111,Mullins & Trenchak Law,LVR,Imaging,150.0,45.0,Rentable
+3113,Mullins & Trenchak Law,LVR,Imaging,250.0,75.0,Rentable
+3132,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+3135,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3136,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3138,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Pérdida
+3140,Mullins & Trenchak Law,LVR,Imaging,1650.0,495.0,Rentable
+3143,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1000.0,280.0,Rentable
+3145,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1800.0,462.0,Rentable
+3147,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3155,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3157,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3175,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Pérdida
+3183,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3208,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3209,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3216,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3227,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3237,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3247,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3248,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3257,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,500.0,140.0,Rentable
+3260,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3265,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3272,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3275,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3289,Mullins & Trenchak Law,LVR,Imaging,1650.0,495.0,Pérdida
+3290,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3301,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3307,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3308,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3309,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,2120.0,594.0,Rentable
+3310,Mullins & Trenchak Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3312,Muslusky Law,LVR,Imaging,150.0,45.0,Rentable
+3315,Muslusky Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+3316,Muslusky Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3317,Muslusky Law,LVR,Imaging,1650.0,495.0,Rentable
+3318,Muslusky Law,Pueblo Medical Imaging,Lien,150.0,42.0,Rentable
+3322,Muslusky Law,Pueblo Medical Imaging,Lien,150.0,42.0,Rentable
+3327,Muslusky Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3330,Muslusky Law,Pueblo Medical Imaging,Imaging,1783.0,504.0,Rentable
+3333,Muslusky Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3337,Muslusky Law,LVR,Lien,1650.0,495.0,Rentable
+3338,Muslusky Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3347,Naqvi Injury Law,Simpson Chiropractic,Chiropractic,3700.0,1100.0,Rentable
+3348,Naqvi Injury Law,Suarez Physical Therapy,Physical Therapy,38995.0,11218.5,Pérdida
+3349,Naqvi Injury Law,Suarez Physical Therapy,Physical Therapy,2267.4,692.4,Rentable
+3350,Naqvi Injury Law,Suarez Physical Therapy,Physical Therapy,13640.0,4092.0,Rentable
+3351,Naqvi Injury Law,Suarez Physical Therapy,Physical Therapy,1849.6,554.88,Rentable
+3352,Naqvi Injury Law,Suarez Physical Therapy,Physical Therapy,7455.0,2236.5,Rentable
+3353,Naqvi Injury Law,Suarez Physical Therapy,Physical Therapy,1963.0,588.9,Rentable
+3354,Neal Hyman Law,Simpson Chiropractic,Chiropractic,4150.0,1245.0,Rentable
+3355,Neal Hyman Law,Simpson Chiropractic,Chiropractic,4520.0,1356.0,Rentable
+3356,Neal Hyman Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3359,Neal Hyman Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3361,Neal Hyman Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3362,Neal Hyman Law,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+3364,Neal Hyman Law,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+3365,Neal Hyman Law,Pueblo Medical Imaging,Imaging,9646.0,2701.0,Rentable
+3366,Neal Hyman Law,Pueblo Medical Imaging,Imaging,1206.0,338.0,Rentable
+3367,Neal Hyman Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3368,Neal Hyman Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3369,Neal Hyman Law,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+3371,Neal Hyman Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3372,Neal Hyman Law,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+3374,Neal Hyman Law,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+3375,Nwogbe Law Group,LVR,Imaging,1650.0,495.0,Rentable
+3378,Nwogbe Law Group,LVR,Imaging,250.0,75.0,Pérdida
+3379,Nwogbe Law Group,LVR,Imaging,1650.0,495.0,Rentable
+3380,Nwogbe Law Group,LVR,Lien,250.0,75.0,Rentable
+3381,Nwogbe Law Group,LVR,Lien,150.0,45.0,Rentable
+3382,Nwogbe Law Group,LVR,Lien,1650.0,495.0,Rentable
+3387,Nwogbe Law Group,LVR,Imaging,1650.0,495.0,Pérdida
+3390,Nwogbe Law Group,LVR,Imaging,250.0,75.0,Rentable
+3392,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3395,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3396,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3397,Nwogbe Law Group,Durango Surgery Center,Pain Management,8929.0,2946.57,Rentable
+3399,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,150.0,50.0,Pérdida
+3401,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1950.0,546.0,Rentable
+3403,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3405,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3407,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+3408,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,150.0,50.0,Rentable
+3421,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+3423,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3425,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1200.0,250.0,Rentable
+3426,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3427,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3428,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1200.0,250.0,Rentable
+3430,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3434,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3437,Nwogbe Law Group,Simpson Chiropractic,Chiropractic,4865.0,1459.5,Rentable
+3438,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1200.0,250.0,Rentable
+3439,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1200.0,250.0,Rentable
+3443,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3444,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3445,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3446,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1795.0,560.0,Rentable
+3447,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+3448,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+3452,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3453,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,2000.0,560.0,Pérdida
+3454,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,2000.0,560.0,Rentable
+3455,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,400.0,112.0,Rentable
+3459,Nwogbe Law Group,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3462,Parke Law Firm,LVR,Imaging,1650.0,495.0,Rentable
+3463,Parke Law Firm,LVR,Imaging,500.0,150.0,Rentable
+3464,Parke Law Firm,LVR,Imaging,1650.0,495.0,Rentable
+3471,Parke Law Firm,LVR,Imaging,250.0,75.0,Rentable
+3473,Parke Law Firm,LVR,Imaging,150.0,45.0,Rentable
+3476,Parke Law Firm,LVR,Imaging,250.0,75.0,Rentable
+3477,Parke Law Firm,LVR,Imaging,150.0,45.0,Rentable
+3480,Parke Law Firm,LVR,Imaging,150.0,45.0,Rentable
+3481,Parke Law Firm,LVR,Imaging,250.0,75.0,Rentable
+3484,Parke Law Firm,LVR,Imaging,1100.0,330.0,Rentable
+3486,Parke Law Firm,LVR,Imaging,150.0,45.0,Rentable
+3487,Parke Law Firm,LVR,Imaging,250.0,75.0,Rentable
+3488,Parke Law Firm,LVR,Imaging,150.0,45.0,Pérdida
+3490,Parke Law Firm,LVR,Imaging,1650.0,495.0,Pérdida
+3491,Parke Law Firm,LVR,Imaging,250.0,75.0,Rentable
+3492,Parke Law Firm,LVR,Imaging,150.0,45.0,Rentable
+3494,Parke Law Firm,LVR,Imaging,1650.0,495.0,Rentable
+3496,Parke Law Firm,LVR,Imaging,1100.0,330.0,Rentable
+3497,Parke Law Firm,LVR,Imaging,1650.0,495.0,Pérdida
+3499,Parke Law Firm,LVR,Imaging,150.0,45.0,Rentable
+3500,Parke Law Firm,LVR,Imaging,1650.0,495.0,Rentable
+3501,Parke Law Firm,LVR,Imaging,1650.0,495.0,Rentable
+3502,Parke Law Firm,LVR,Imaging,200.0,60.0,Rentable
+3503,Parke Law Firm,LVR,Imaging,1200.0,360.0,Rentable
+3505,Parke Law Firm,LVR,Imaging,150.0,45.0,Rentable
+3508,Parke Law Firm,LVR,Imaging,200.0,60.0,Rentable
+3512,Parke Law Firm,LVR,Imaging,250.0,75.0,Rentable
+3514,Parke Law Firm,OpenSided MRI of Las Vegas,Imaging,1645.0,500.0,Pérdida
+3515,Parke Law Firm,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3518,Parke Law Firm,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+3519,Parke Law Firm,Pueblo Medical Imaging,Imaging,1100.0,308.0,Rentable
+3520,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3521,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3522,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3524,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3525,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3526,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3527,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3528,RRCC Firm,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3529,Sidell Injury Law,Suarez Physical Therapy,Physical Therapy,26710.5,8013.15,Rentable
+3530,Sidell Injury Law,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3531,Sidell Injury Law,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3532,Sidell Injury Law,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3536,ER Injury Attorneys,Suarez Physical Therapy,Physical Therapy,2390.0,717.0,Rentable
+3537,Valarie Fujii Law Offices,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3538,Valarie Fujii Law Offices,LVR,Imaging,150.0,42.0,Rentable
+3539,Valarie Fujii Law Offices,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3549,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3550,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3551,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3554,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,660.0,188.0,Rentable
+3555,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3557,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3558,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3559,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3564,Vannah & Vannah Law Firm,Pueblo Medical Imaging,Imaging,500.0,140.0,Rentable
+3567,VC2 Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3569,VC2 Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3571,VC2 Law,Pueblo Medical Imaging,Imaging,550.0,280.0,Rentable
+3572,VC2 Law,Pueblo Medical Imaging,Imaging,2010.0,563.0,Rentable
+3573,VC2 Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3576,VC2 Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3577,VC2 Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3578,VC2 Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3583,Willoughby Shulman Injury Lawyers,LVR,Administrative,1650.0,495.0,Rentable
+3584,Willoughby Shulman Injury Lawyers,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3587,Willoughby Shulman Injury Lawyers,Simpson Chiropractic,Chiropractic,5445.0,1742.4,Rentable
+3588,Willoughby Shulman Injury Lawyers,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3590,Willoughby Shulman Injury Lawyers,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3591,Willoughby Shulman Injury Lawyers,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3595,Wilshire Law Firm CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+3597,Wilshire Law Firm CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+3598,Wilshire Law Firm CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+3599,Wilshire Law Firm CA,Precision Medical Products,Medical Device,995.0,278.6,Rentable
+3600,Wilshire Law Firm CA,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3601,Wilshire Law Firm CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+3602,Wilshire Law Firm CA,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3603,Wilshire Law Firm CA,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3607,Wilshire Law Firm CA,Precision Medical Products,Medical Device,995.0,248.75,Rentable
+3608,Wilshire Law Firm CA,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3610,Wilshire Law Firm CA,Precision Medical Products,Medical Device,4250.0,1062.5,Rentable
+3613,Yan Kenyon Law,LVR,Imaging,250.0,75.0,Rentable
+3615,Yan Kenyon Law,LVR,Imaging,150.0,45.0,Rentable
+3621,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3624,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3625,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Pérdida
+3630,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1125.0,315.0,Rentable
+3631,Yan Kenyon Law,LVR,Imaging,1650.0,495.0,Rentable
+3632,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3634,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Pérdida
+3636,Yan Kenyon Law,LVR,Imaging,250.0,75.0,Rentable
+3637,Yan Kenyon Law,LVR,Imaging,150.0,45.0,Rentable
+3639,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3641,Yan Kenyon Law,LVR,Imaging,150.0,45.0,Rentable
+3643,Yan Kenyon Law,LVR,Imaging,250.0,75.0,Rentable
+3646,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3647,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3655,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3657,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1650.0,462.0,Rentable
+3658,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,150.0,42.0,Rentable
+3660,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3662,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,165.0,47.0,Rentable
+3664,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3666,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3667,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
+3669,Yan Kenyon Law,Pueblo Medical Imaging,Imaging,1795.0,503.0,Rentable
