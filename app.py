@@ -23,7 +23,7 @@ import streamlit as st
 #Cargamos el modelo
 import pickle
 filename = 'modelo-ensamble-clas.pkl'
-model_rf, min_max_scaler,labelencoder, variables = pickle.load(open(filename, 'rb'))
+model_rf, variables,labelencoder,min_max_scaler = pickle.load(open(filename, 'rb'))
 
 variables = list(variables)
 
