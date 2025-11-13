@@ -91,12 +91,43 @@ data_preparada.head()
 **El modelo presenta un error del 12%**
 """
 
-#Hacemos la predicción con el Tree
-Y_pred = model_rf.predict(data_preparada)
-print(Y_pred)
+# Hacemos la predicción con el modelo cargado
+Y_pred_raw = model_rf.predict(data_preparada)
 
-data['Prediccion']=Y_pred
-data.head()
+# Decodificar la predicción si existe un labelencoder (modelo de clasificación)
+try:
+       if labelencoder is not None and hasattr(labelencoder, 'inverse_transform'):
+              try:
+                     Y_pred_display = labelencoder.inverse_transform(Y_pred_raw)
+              except Exception:
+                     Y_pred_display = Y_pred_raw
+       else:
+              Y_pred_display = Y_pred_raw
+except Exception:
+       Y_pred_display = Y_pred_raw
 
-#Predicciones finales
-data
+def _to_readable_label(x):
+       """Return human-readable label 'rentable' or 'pérdida' for a prediction value x."""
+       try:
+              # if numeric (numpy or native int)
+              if isinstance(x, (np.integer, int)):
+                     return 'rentable' if int(x) == 1 else 'pérdida'
+              s = str(x).strip()
+              # if string numeric
+              if s in ('1', '0'):
+                     return 'rentable' if s == '1' else 'pérdida'
+              # common variants
+              low = s.lower()
+              if low in ('rentable', 'pérdida', 'perdida'):
+                     return 'rentable' if low.startswith('rent') else 'pérdida'
+              # fallback: return original string
+              return s
+       except Exception:
+              return str(x)
+
+# Map predictions to readable labels and display
+readable_preds = [_to_readable_label(v) for v in np.atleast_1d(Y_pred_display)]
+data['Prediccion'] = readable_preds
+
+st.subheader("Predicción para la entrada ingresada")
+st.write(data[['Account Name', 'Provider Client', 'Subject', 'Purch Amt', 'Bill Amt', 'Prediccion']])
